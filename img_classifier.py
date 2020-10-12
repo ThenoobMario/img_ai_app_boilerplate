@@ -1,7 +1,7 @@
 def our_image_classifier(image):
     '''
-            Function that takes the path of the image as input and returns the closest predicted label as output
-            '''
+    Function that takes the path of the image as input and returns the closest predicted label as output
+    '''
     # Disable scientific notation for clarity
     np.set_printoptions(suppress=True)
     # Load the model
