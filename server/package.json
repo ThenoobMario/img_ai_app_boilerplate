@@ -1,0 +1,7 @@
+{
+    "name": "img_ai_app_template",
+    "version": "0.0.1",
+    "dependencies": {
+        "express": "latest"
+    }
+}
